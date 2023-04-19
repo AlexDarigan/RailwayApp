@@ -1,0 +1,7 @@
+server.port: 9872
+
+spring:
+  thymeleaf:
+    cache: false
+  main:
+    show-banner: false
